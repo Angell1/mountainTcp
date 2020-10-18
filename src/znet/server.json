@@ -1,0 +1,9 @@
+{
+  "Name":"MounttainServer",
+  "Version": "tcp4",
+  "Host":"127.0.0.1",
+  "TcpPort":"7777",
+  "MaxPackSize":"4096",
+  "MaxConn":"5000"
+}
+
